@@ -6,13 +6,13 @@ for a first semester university programming course.
 ## Setup
 The application uses pygame for the GUI - you may need to install it using:
 ```shell
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 or your virtual environment.
 
 To run the game:
 ```shell
-$ python3 game.py
+python3 game.py
 ```
 
 ## Libraries used
